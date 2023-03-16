@@ -1,0 +1,1 @@
+# greentec-ebay-template
